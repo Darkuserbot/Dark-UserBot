@@ -6,7 +6,7 @@
 * Azərbaycanın gözəl userbotlarınan biri
 
 ### # Heroku Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamDerUntergang/Telegram-UserBot/tree/seden)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Darkuserbot/Dark-UserBot)
 
 ```
 /**
