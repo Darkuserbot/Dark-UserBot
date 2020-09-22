@@ -11,8 +11,8 @@
     "productivity"
   ],
   "repository": "https://github.com/Darkuserbot/Dark-UserBot",
-  "website":   "https://github.com/TeamDerUntergang/Telegram-UserBot/wiki",
-  "success_url": "https://t.me/Dark_UserBot",
+  "website":   "https://github.com/Darkuserbot/Dark-UserBot",
+  "success_url": "https://github.com/Darkuserbot/Dark-UserBot",
   "stack": "container",
   "env": {
     "API_KEY": {
