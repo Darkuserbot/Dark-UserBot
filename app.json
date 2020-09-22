@@ -16,15 +16,15 @@
   "stack": "container",
   "env": {
     "API_KEY": {
-      "description": "Bu məlumati my.telegram.org saytından əldə edin.",
+      "description": "Bu melumati my.telegram.org saytından elde edin.",
       "required": true
     },
     "API_HASH": {
-      "description": "Bu məlumati my.telegram.org saytından əldə edin.",
+      "description": "Bu melumati my.telegram.org saytından elde edin.",
       "required": true
     },
     "STRING_SESSION": {
-      "description": "python3 GenerateStringSession.py Faylı yerli olaraq çalıştırarak bu dəyəri əldə edin.",
+      "description": "python3 GenerateStringSession.py Faylı yerli olaraq çalıştırarak bu deyeri elde edin.",
       "required": true
     },
     "HEROKU_APIKEY": {
@@ -32,21 +32,21 @@
       "value": ""
     },
     "HEROKU_APPNAME": {
-      "description": "Buraya Heroku tətbiqetmə adını əlavə edin. UserBot yeniləmələrinə kömək edir.",
+      "description": "Buraya Heroku tetbiqetme adını elave edin. UserBot yeniləmələrinə kömək edir.",
       "required": true
     },
     "UPSTREAM_REPO_URL": {
-      "description": "Fork Varsayılan olaraq, repo adresimiz əlavə olunur. sizdə olmasa boş buraxın.",
+      "description": "Fork Varsayılan olaraq, repo adresimiz elave olunur. sizdə olmasa boş buraxın.",
       "value": "https://github.com/Darkuserbot/Dark-UserBot",
       "required": true
     },
     "COUNTRY": {
-      "description": "Ölkənizin .time və .date əmrlərində istifadə olunmasını təyin edin. Varsayılan ayar Azərbycandır.",
+      "description": "Ölkenizin .time və .date emrlerinde istifadə olunmasını təyin edin. Varsayılan ayar Azerbaycandır.",
       "value": "Azerbaijan",
       "required": false
     },
     "TZ_NUMBER": {
-      "description":"Ölkənizdə olan saat urşağı.",
+      "description":"Ölkenizdə olan saat qurşağı.",
       "value": "1",
       "required": false
     },
@@ -56,19 +56,19 @@
       "required": true  
     },
     "BOTLOG": {
-      "description": "Qeyd etməyi açmaq istəyirsinizsə bunu True olaraq ayarlayın. Biraz uzun proses olacaq",
+      "description": "Qeyd etmeyi açmaq isteyirsinizse bunu True olaraq ayarlayın. Biraz uzun proses olacaq",
       "value": "False"
     },
     "BOT_USERNAME": {
-      "description": "Burada bot istifadəçi adınızı yazmalısınız. @BotFather köməyi ilə bir bot yarada bilərsiniz. .",
+      "description": "Burada bot istifadeçi adınızı yazmalısınız. @BotFather köməyi ilə bir bot yarada bilərsiniz. .",
       "required": false  
     },
     "BOT_TOKEN": {
-      "description": "İnline bot xüsusiyyətinin işləməsi üçün tələb olunur.Bir botunuz yoxdursa, @BotFather köməyi ilə bir bot yarada bilərsiniz.",
+      "description": "İnline bot xüsusiyyetinin işlemesi üçün teleb olunur.Bir botunuz yoxdursa, @BotFather kömeyi ile bir bot yarada bilersiniz.",
       "required": false    
     },
     "AUTO_PP": {
-      "description": "Autopp modulunun işləməsi üçün tələb olunan dəyişəndir. İşləmək üçün istifadə edəcəyiniz şəklin birbaşa ünvanını daxil etməlisiniz.",
+      "description": "Autopp modulunun işlemesi üçün teleb olunan dəyişəndir. İşləmək üçün istifadə edəcəyiniz şəklin birbaşa ünvanını daxil etməlisiniz.",
       "required": false      
     },
     "BOTLOG_CHATID": {
